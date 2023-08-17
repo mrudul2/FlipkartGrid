@@ -24,10 +24,10 @@ export const ProductDealAmazon = (props) => {
 			<div className="flex justify-center shadow-2xl">
 				<div className="block rounded-lg shadow-lg bg-yellow-100 max-w-sm text-center h-[100%] w-48">
 					<div className="py-3 px-6 border-b font-semibold border-gray-300">
-						Amazon
+						Flipkart
 					</div>
 					<div className="mx-6 mt-2 -mb-2 bg-yellow-400 text-white border-yellow-400 border-2 rounded-md">
-						Best Deal
+						Best Deal Dealer1
 					</div>
 
 					<div className="p-6">
@@ -54,7 +54,7 @@ export const ProductDealAmazon = (props) => {
 			<div className="flex justify-center ">
 				<div className="block rounded-lg shadow-lg bg-white max-w-sm text-center h-[100%] w-48">
 					<div className="py-3 px-6 border-b border-gray-300 font-semibold">
-						Amazon
+						Flipkart
 					</div>
 					<div className="p-6">
 						<span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ">
@@ -105,7 +105,7 @@ export const ProductDealFlipkart = (props) => {
 							Flipkart
 						</div>
 						<div className="mx-6 mt-2 -mb-2 bg-yellow-400 text-white border-yellow-400 border-2 rounded-md">
-							Best Deal
+							Best Deal Dealer 2
 						</div>
 						<div className="p-6">
 							<span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ">
