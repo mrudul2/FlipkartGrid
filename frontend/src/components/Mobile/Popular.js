@@ -197,7 +197,7 @@ export default function PopularSlider() {
     setProduct(jsonRes);
     setIsLoading(false);
     setOpen(!open);
-  }, [jsonRes]);
+  }, []);
 
   const settings = {
     dots: false,
